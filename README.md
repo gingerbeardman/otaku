@@ -1,2 +1,3 @@
-# otaku-issues
-Issues for my iOS app Otaku!
+# Otaku!
+
+Feedback area for iOS app.
