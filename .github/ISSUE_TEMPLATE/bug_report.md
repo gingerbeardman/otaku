@@ -26,8 +26,9 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Versions (please complete the following information):**
- - Otaku app version [e.g. 0.3]
- - iOS version [e.g. 17.6.1]
+ - Otaku app build: [e.g. 240908]
+ - iOS version: [e.g. 17.6.1]
+ - Device: [e.g. iPhone Xs]
 
 **Additional context**
 Add any other context about the problem here.
