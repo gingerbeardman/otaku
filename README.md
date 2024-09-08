@@ -1,5 +1,7 @@
 # Otaku!
 
+No code in this repo, it's just for bug reporting and feedback.
+
 ## TestFlight
 - An early version of the app is available to test
 - Best for people with prior experience of buying stuff from Japan
