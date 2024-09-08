@@ -18,9 +18,8 @@
 - Set one search term globally for all sites
 - Uses one app to manage multiple sites
 - Some sites don't have an app, so win-win!
-- Tiny and optimised ~200KB download (~400KB installed)
+- Tiny and optimised <300KB download (<500KB installed)
 
 ## Screen Recording
 
-https://github.com/user-attachments/assets/3919c376-0150-4aad-9d57-ce9e5820012f
-
+https://github.com/user-attachments/assets/bb05a23a-956c-4311-b0cb-0637dd7021a7
