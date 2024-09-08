@@ -1,6 +1,6 @@
 # Otaku!
 
-No code in this repo, it's just for bug reporting and feedback.
+No source code in this repo, it's just for bug reporting and feedback.
 
 ## TestFlight
 - An early version of the app is available to test
