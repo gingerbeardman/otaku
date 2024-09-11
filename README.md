@@ -11,7 +11,7 @@ No source code in this repo, it's just for bug reporting and feedback.
 - Buying stuff from Japan just got much easier 😅
 
 ## Detail
-- This app helps you search across multiple Japanese shopping sites
+- This specialised web browser helps you search across multiple Japanese shopping sites
 - First thing you should do is add some Search Terms, try all your favourites
 - The currently selected Search Term is used across all tabs—time saver!
 - Use the tab bar to easily search each site for the same Search Term
