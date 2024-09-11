@@ -20,7 +20,7 @@ No source code in this repo, it's just for bug reporting and feedback.
 - Set one search term globally for all sites
 - Uses one app to manage multiple sites
 - Some sites don't have an app, so win-win!
-- Tiny and optimised <300KB download (<500KB installed)
+- Tiny and optimised ~250KB download (~500KB installed)
 
 ## Screen Recording
 
