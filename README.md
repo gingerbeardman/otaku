@@ -21,6 +21,7 @@ No source code in this repo, it's just for bug reporting and feedback.
 - Uses one app to manage multiple sites
 - Some sites don't have an app, so win-win!
 - Tiny and optimised ~250KB download (~750KB installed)
+- iOS 15 and up
 
 ## Screen Recording
 
