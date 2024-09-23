@@ -25,4 +25,4 @@ No source code in this repo, it's just for bug reporting and feedback.
 
 ## Screen Recording
 
-https://github.com/user-attachments/assets/bb05a23a-956c-4311-b0cb-0637dd7021a7
+https://github.com/user-attachments/assets/a092a514-b346-44d6-b167-1e6cc4c56735
