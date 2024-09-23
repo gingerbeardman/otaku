@@ -20,7 +20,7 @@ No source code in this repo, it's just for bug reporting and feedback.
 - Set one search term globally for all sites
 - Uses one app to manage multiple sites
 - Some sites don't have an app, so win-win!
-- Tiny and optimised ~250KB download (~750KB installed)
+- Tiny and optimised ~270KB download (~810KB installed)
 - Works on devices running iOS 15 and up
 
 ## Screen Recording
