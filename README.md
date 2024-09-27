@@ -18,9 +18,10 @@ No source code in this repo, it's just for bug reporting and feedback.
 
 ## Unique Selling Points
 - Set one search term globally for all sites
+- Manage all your searches in a list
 - Uses one app to manage multiple sites
 - Some sites don't have an app, so win-win!
-- Tiny and optimised ~270KB download (~810KB installed)
+- Tiny and optimised (less than 1MB installed)
 - Works on devices running iOS 15 and up
 
 ## Screen Recording
